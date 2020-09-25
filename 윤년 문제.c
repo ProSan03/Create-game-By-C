@@ -12,4 +12,5 @@ int main(){
 	{
 		printf("평년");
 	}
+	return 0;
 }
